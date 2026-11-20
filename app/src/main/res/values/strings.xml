@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Turntable</string>
+    <string name="widget_name">Turntable Spotify Player</string>
+    <string name="widget_description">Single-row Spotify music bar widget (horizontally resizable) with album art, play/pause, next, and previous track controls.</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_setup">Setup</string>
+    <string name="action_pin_widget">Pin Widget to Home Screen</string>
+    <string name="action_connect_spotify">Connect Spotify</string>
+    <string name="action_disconnect_spotify">Disconnect</string>
+    <string name="action_refresh">Sync Now</string>
+    <string name="action_open_spotify">Open Spotify</string>
+    <string name="action_previous_track">Previous track</string>
+    <string name="action_play_pause">Play or pause</string>
+    <string name="action_next_track">Next track</string>
+    <string name="cd_album_art">Album cover artwork</string>
+    <string name="cd_vinyl_placeholder">Turntable vinyl artwork</string>
+    <string name="empty_track_title">No song playing</string>
+    <string name="empty_track_subtitle">Play music in Spotify</string>
+    <string name="device_bridge_title">Spotify Media Controls</string>
+    <string name="device_bridge_subtitle">Send instant Play/Pause, Next, and Previous commands directly to Spotify on this device.</string>
+    <string name="pin_widget_fallback">To add the widget manually: long-press your home screen, tap Widgets, and drag Turntable onto your home screen.</string>
+    <string name="label_spotify">Spotify</string>
+    <string name="sync_channel_name">Live Spotify Sync</string>
+    <string name="sync_channel_description">Keeps the Turntable home screen widget updated instantly when songs or play/pause state change in Spotify.</string>
+    <string name="notification_listener_label">Turntable Media Sync</string>
+    <string name="notification_access_title">Notification Shade Sync</string>
+    <string name="notification_access_active_title">Notification Shade Sync • Active</string>
+    <string name="notification_access_subtitle">Reads the exact song, artist, play state, and album art directly from Spotify\'s notification card in real time — no network lookup needed.</string>
+    <string name="action_grant_notification_access">Grant Access</string>
+    <string name="action_notification_settings">Settings</string>
+</resources>

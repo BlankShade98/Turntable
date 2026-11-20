@@ -1,0 +1,6 @@
+{
+  "name": "Turntable",
+  "description": "Interactive Spotify music widget studio with album art, play/pause, and next/previous track controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
